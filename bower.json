@@ -1,0 +1,22 @@
+{
+  "name": "aud.io",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Doğan Derya <doganderya59@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "socket.io-client": "^1.4.6",
+    "lz-string": "^1.4.4"
+  }
+}

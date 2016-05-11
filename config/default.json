@@ -1,0 +1,8 @@
+{
+	"gluon": {
+		"dir": "./src"
+	},
+	"logger": {
+		"level": "DEBUG"
+	}
+}

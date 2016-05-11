@@ -1,0 +1,17 @@
+{
+  "name": "aud.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "1.20.1",
+    "gluon": "1.2.7",
+    "socket.io": "1.4.6"
+  }
+}
